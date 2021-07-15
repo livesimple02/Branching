@@ -5,9 +5,7 @@
 * 'git log' - List commit history
 * 'git log --oneline' - Compact commit history
 * 'git config -l' - List git and repo configuration
-
-
-### Branching
 * 'git branch' - list local branches
 * 'git branch newBranch' - create local branch 'newBranch'
 * 'git checkout newBranch' - Move to branch 'newBranch'
+* 'git checkout -b 'branchName' - create and checkout new branch if not there.
