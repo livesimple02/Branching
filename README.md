@@ -9,3 +9,5 @@
 * 'git branch newBranch' - create local branch 'newBranch'
 * 'git checkout newBranch' - Move to branch 'newBranch'
 * 'git checkout -b 'branchName' - create and checkout new branch if not there.
+* 'git diff sha' - Show diffs between current commit and commit id 'sha'
+* 'git diff oneBranch otherBranch' - Show diffs between 'oneBranch' and 'otherBranch'
