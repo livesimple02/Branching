@@ -12,3 +12,5 @@
 * 'git remote add alias url' - add 'alias' as name for remote repo 'url' in project configuration
 * 'git push alias aBranch' - push local commits to remote repo 'alias''s branches 'aBranch'
 * 'git pull alias aBranch' - pull remote 'aBranch' from 'alias' into current local branches
+* 'git diff sha' - Show diffs between current commit and commit id 'sha'
+* 'git diff oneBranch otherBranch' - Show diffs between 'oneBranch' and 'otherBranch'
